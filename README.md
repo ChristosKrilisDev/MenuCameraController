@@ -1,10 +1,10 @@
 # MenuCameraController
 The Menu Camera Controller is for 3D environment menus. 
 
-About:
-  A Menu Camera Controller,
-  Make camera move and rotate in 3D environment base on In-game Targets(Transforms),
-  Easy to set up.
+About
+    A Menu Camera Controller,
+    Make camera move and rotate in 3D environment base on In-game Targets(Transforms),
+    Easy to set up.
 
 
 To Do : 
