@@ -1,5 +1,5 @@
 # MenuCameraController
-The Menu Camera Controller is for 3D environment menus. 
+A Menu Camera Controller is for 3D envirments and menus. 
 
 About:
 
